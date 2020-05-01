@@ -1,12 +1,13 @@
 # DH150-Assignment04-Michelle Xu
-##Product Design Challenge 
-###What is the main activity your project would support the users in accomplishing?
 
-###What is the basic need involved for that activity?
+## Product Design Challenge 
+### What is the main activity your project would support the users in accomplishing?
 
-###What is/are the traditional/current solution(s) to satisfy the needs?
+### What is the basic need involved for that activity?
 
-###What is/are the limitation(s) that possibly would be improved with (digital) technology?
+### What is/are the traditional/current solution(s) to satisfy the needs?
+
+### What is/are the limitation(s) that possibly would be improved with (digital) technology?
 
 ##Target Users 
 ###What are the characteristics of users? (ex. demographics, preference, expertise) 
