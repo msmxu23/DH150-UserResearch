@@ -1,6 +1,6 @@
 # DH150-Assignment04-Michelle Xu
 
-## Challenges and Solutions Overview 
+## 1. Challenges and Solutions Overview 
 ### What is the main activity your project would support the users in accomplishing?
 This project will help bring those who enjoy listening to music to feel more welcomed and connected to concerts/events, so that they can easily access information to events and find more information of the artists they're interetsed in, whether it be tours, meet & greets, or performances--without having to go on social medi or search elsewhere.
 
@@ -15,7 +15,7 @@ Current solutions to satisfy this need are the various websites that come across
 ### What is/are the limitation(s) that possibly would be improved with (digital) technology?
 Certain limitations for finding tickets and information about certain events are that some users may not have the social media accounts necessary to access such information, such as not having Instagram, a Facebook, or Twitter. Also, although it is great to have social medias linked, there should be basic information for users to access on this certain website. Users may spend too much time, looking through different websites to find the most informational, trustworthy, and cheapest place to buy tickets. Therefore, added functionality and features incorporated in this project should address those needs and be welcoming and flexible to all kinds of music listeners, so they can constantly and quickly use this website they would be accustomed to. 
 
-## Target Users 
+## 2. Target Users 
 ### What are the characteristics of users?
 Demographics: people who enjoy music, want to experience live music, want more information on events or artists, want to feel security and safety when purchasing tickets 
 Preferences:users who want to find a welcoming community 
@@ -27,14 +27,14 @@ Users should be able to go on the website/app on their laptop or computer wheree
 ### What would the users do to complete that activity? (e.g., goal, operation, method, action)
 To have a good experience finding the tickets they need and feeling connected to a community, they can be in contact with other music listeners and chat with each other and discuss more information. 
 
-## Research Method
+## 3. Research Method
 The two observation methods I employed include participatory observation and ethnographic research.
 Ethnographic research simply involves observing how people look for event/concert tickets. 
 I conducted participatory observation research with a participant who fits my target demographic details.
 Please find the materials used in the next section.
 
 ## Research Materials 
-1. Contextual inquiry guide (script)
+1. Contextual inquiry guide (script): Click [here](https://docs.google.com/document/d/1knNt_u042BMzOupje-FvzEi6kHCtun2xu4_0OgwqM3s/edit?usp=sharing) 
 2. Raw data 
 Transcription: 
 Video Interview: 
