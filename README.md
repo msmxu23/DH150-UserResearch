@@ -2,9 +2,7 @@
 
 ## 1. Challenges and Solutions Overview 
 ### What is the main activity your project would support the users in accomplishing?
-This project will help bring those who enjoy listening to music to feel more welcomed and connected to concerts/events, so that they can easily access information to events and find more information of the artists they're interetsed in, whether it be tours, meet & greets, or performances--without having to go on social medi or search elsewhere.
-
-Users should find this project website extremely informational, friendly, and be able to purchase tickets to these events with ease. This project will hopefully serve to make the community of music listeners, happier and more excited to go and check out more events. 
+This project will help bring those who enjoy listening to music to feel more welcomed and connected to concerts/events, so that they can easily access information to events and find more information of the artists they're interetsed in, whether it be tours, meet & greets, or performances--without having to go on social medi or search elsewhere. Users should find this project website extremely informational, friendly, and be able to purchase tickets to these events with ease. This project will hopefully serve to make the community of music listeners, happier and more excited to go and check out more events. 
 
 ### What is the basic need involved for that activity?
 This activity fulfills the user’s basic need for social belonging because people want to feel invited to be a part of something bigger. A music event website that creates a sense of belongingness will not neglect users social needs and desires, and give the proper attention to its users, which affect their general ability to form and maintain significant relationships. Humans need to feel accepted and welcomed in order to continue and go out more often. In this case, it would be an online communinity that becomes a live community. 
@@ -21,7 +19,7 @@ Demographics: people who enjoy music, want to experience live music, want more i
 Preferences:users who want to find a welcoming community 
 Expertise: users would not need a certain level of expertise, it would be efficient but flexible for all kinds of users 
 
-### Where would the users do that activity? (i.e., context of use)
+### Where would the users do that activity? 
 Users should be able to go on the website/app on their laptop or computer whereever they are. They can plan weeks ahead or find out the latest events, even events on the same day. 
 
 ### What would the users do to complete that activity? (e.g., goal, operation, method, action)
@@ -37,7 +35,9 @@ Please find the materials used in the next section.
 1. Contextual inquiry guide (script): Click [here](https://docs.google.com/document/d/1knNt_u042BMzOupje-FvzEi6kHCtun2xu4_0OgwqM3s/edit?usp=sharing) 
 2. Raw data 
 Transcription: 
-Video Interview: 
+
+Video: 
+
 Notes/Quotes: 
 
 ## Reflection 
