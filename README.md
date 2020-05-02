@@ -33,8 +33,10 @@ Please find the materials used in the next section.
 
 ## Research Materials 
 1. Contextual inquiry guide (script): Click [here](https://docs.google.com/document/d/1knNt_u042BMzOupje-FvzEi6kHCtun2xu4_0OgwqM3s/edit?usp=sharing) 
+
 2. Raw data 
-Transcription: 
+
+Transcript: 
 
 Video: 
 
