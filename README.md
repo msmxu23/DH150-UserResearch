@@ -40,7 +40,8 @@ Transcript: Click [here](https://docs.google.com/document/d/1er9bK8TlBa3mkLWgf67
 
 Video: Click [Here](https://drive.google.com/file/d/1EbBkZIplkwhFrx8ZNW0hC1L8k4moXWcU/view?usp=sharing) 
 
-Notes/Quotes: 
+3. Notes/Quotes 
+
 “The name of the concert and the date that it's supposed to be held, and also my location.” 
 
 “I will also look for like the benefits and different seating arrangements that come with it.” 
